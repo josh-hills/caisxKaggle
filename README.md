@@ -1,4 +1,4 @@
-### Carleton Artifical Intelligence Society Kaggle Competitiono
+### Carleton Artifical Intelligence Society Kaggle Competition
 
 #### Dependencies:
 * [NumPy](http://www.numpy.org/)
